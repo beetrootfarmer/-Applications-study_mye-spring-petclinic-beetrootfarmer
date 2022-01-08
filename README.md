@@ -1,1 +1,1 @@
-# -Applications-study_mye-spring-petclinic-beetrootfarmer
+# spring-petclinic-beetrootfarmer
